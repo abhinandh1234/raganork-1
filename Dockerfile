@@ -1,7 +1,7 @@
 FROM quay.io/souravkl11/raganork:multidevice
 
 RUN git clone https://github.com/souravkl11/raganork-md /skl/Raganork
-WORKDIR /skl/Raganork
+WORKDIR /skl/ABHI SER
 ENV TZ=Asia/Kolkata
 RUN npm install supervisor -g
 RUN yarn install --ignore-engines
