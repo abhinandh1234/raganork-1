@@ -1,8 +1,8 @@
 {
-  "name": "raganork",
+  "name": "ABHI SER",
   "version": "2.0.0",
   "description": "Raganork whatsapp bot- Multi device version.",
-  "main": "./Raganork/index.js",
+  "main": "./ABHI SER/index.js",
   "scripts": {
     "start": "supervisor -s index.js"
   },
@@ -15,7 +15,7 @@
     "bot",
     "multi-device"
   ],
-  "author": "Sourav",
+  "author": "ABHI SER",
   "developer": "@souravkl11",
   "license": "GPL-3.0-or-later",
   "bugs": {
